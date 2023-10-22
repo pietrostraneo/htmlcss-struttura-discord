@@ -8,3 +8,5 @@ Consigli:
 Ricordatevi quanto visto in aula: contenitore->riga->colonna. Date le altezze fisse e i colori di background (se volete anche il bordo), non inserite contenuto. Cercate di replicare il mockup in allegato. I colori non sono importanti, se utilizzate colori diversi non importa, l'importante è che la struttura sia fedele al file allegato.
 E non fatevi prendere dal panico: ricordatevi che i tutor sono a vostra completa disposizione! :muscolo:
 Buon lavoro.
+
+Esercizio completato, anche se con grandi difficoltà. attendo con ansia la correzione dell'esercizio
