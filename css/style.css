@@ -6,130 +6,126 @@
 
 header{
     background-color: lightblue;
-    height: 65px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-footer{
-    background-color: black;
-    height: 65px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-top: 2px solid white;
-}
-
-.nav-menu{
-    background-color: orange;
-    height: 30px;
-    width: 70%;
-    display: flex;
-    justify-content: space-between;
-}
-
-.end-menu{
-    background-color: cyan;
-    height: 40px;
-    width: 70%;
-    display: flex;
-    justify-content: space-between;
-
-}
-
-.content{
-    border: 1px dashed black;
-    padding: 5px;
-}
-
-ul{
-    list-style-type: none;
-    display: flex;
-    flex-direction: row;
-    gap: 30px;
+    height: 75px;
+    padding: 10px 0;
 }
 
 .container{
-    max-width: 100%;
-    margin: 0 auto;
-    height: 100%;
-    background-color: pink;
+    max-width: 1200px;
 }
 
-.row-blue{
+.row{
     width: 100%;
     display: flex;
-    height: 500px;
-    background-color: blue;
-    justify-content: center;
-    align-items: center;
 }
 
-.row-white{
-    width: 100%;
-    display: flex;
-    height: 600px;
-    background-color: white;
-    justify-content: center;
-    align-items: center;
-}
-
-.row-black{
-    width: 100%;
-    display: flex;
-    height: 700px;
-    background-color: black;
-    justify-content: center;
-    align-items: center;
-}
-
-.row-gray{
-    width: 100%;
-    display: flex;
-    height: 600px;
-    background-color: lightgray;
-    justify-content: center;
-    align-items: center;
-}
-
-.firstcolumn{
-    width: 50%;
-    background-color: purple;
-    height: 350px;
-}
-
-.pinkcol{
-    width: 20%;
-    background-color: pink;
-    height: 60%;
-    border: 1px dotted black;
-}
-
-.pinkcol-b{
-    width: 20%;
-    background-color: pink;
-    height: 80%;
-    border: 1px dotted black;
-}
-
-.bluecol{
-    width: 55%;
-    background-color: blue;
-    height: 60%;
-    border: 1px dotted black;
-}
-
-.greencol{
-    width: 65%;
-    height: 70%;
-    border: 1px dotted black;
-    background-color: green;
-}
-
-.cyancol{
+.col15{
     width: 15%;
-    height: 80%;
-    border: 1px dotted white;
+    
+}
+
+.col70{
+    width: 70%;
+    
+}
+
+.bordercolumn{
+    border: 1px dashed black;
+}
+
+.height50{
+    height: 50px;
+}
+
+.bgorange{
+    background-color: orange;
+}
+
+main{
+    padding: 20px 0;
+}
+
+.container-sm{
+    max-width: 991px;
+}
+
+.margincontainer{
+    margin:  0 auto;
+}
+
+.col100{
+    width: 100%;
+}
+
+.height300{
+    height: 300px;
+}
+
+.bgpurple{
+    background-color: purple;
+}
+
+footer{
+    background-color: darkgray;
+    padding: 20px 0;
+}
+
+hr{
+    background-color: gray;
+    margin: 10px 0;
+}
+
+.bgacquamarine{
     background-color: cyan;
+}
+
+.bordercolumnwhite{
+    border: 1px dashed white;
+}
+
+.col40{
+    width: 40%;
+}
+
+.col60{
+    width: 60%;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.side{
+    padding: 10px;
+}
+
+.padding-y-10{
+    padding: 10px 0;
+}
+
+.padding-y-30{
+    padding: 10px 0;
+}
+
+.bgblue{
+    background-color: darkblue;
+    padding: 20px 0;
+}
+
+.margin-y-30{
+    margin: 30px 0;
+}
+
+.bggray{
+    background-color: lightgray;
+}
+
+.height500{
+    height: 500px;
+}
+
+.bggreen{
+    background-color: green;
 }
